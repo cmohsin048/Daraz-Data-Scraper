@@ -1,4 +1,4 @@
-<h1>Daraz Landline Phones Data Scraper</h1>
+<h1>Daraz Data Scraper</h1>
 This repository contains a web scraper designed to extract data from Daraz.pk. The scraper navigates through multiple pages, collecting detailed information about each product, including the product URL, ID, category, sub-category, rating, reviews, sales, and more. The data is then stored in a Mongodb database for further analysis.
 <h2>Features</h2>
 <ol>
