@@ -15,8 +15,8 @@ def convert_to_numeric(value):
     else:
         return int(value_str)
 
-username = 'Mohsin_Raza'
-password = 'cmohsin02'
+username = 'username'
+password = 'password'
 
 connection_string = 'your connection string'
 
