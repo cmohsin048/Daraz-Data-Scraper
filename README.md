@@ -28,7 +28,11 @@ This repository contains a web scraper designed to extract data from Daraz.pk. T
 </ol>
 <h2>Usage
 </h2>
-<p>python scraper.py
+<ol>
+  <li><h4>run the script</h4> python scraper.py</li>
+  <li>The scraped data will be stored in your specified MongoDB collection.</li>
+</ol>
+
 </p>
 
 
