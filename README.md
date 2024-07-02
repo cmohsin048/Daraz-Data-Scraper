@@ -20,7 +20,12 @@ This repository contains a web scraper designed to extract data from Daraz.pk. T
   <li><h4>Clone the repository:</h4> git clone https://github.com/your-username/daraz-landline-phones-scraper.git
 </li>
   <li>
-    <h4>Install the required packages:</h4> pip install -r requirements.txt
+    <h4>Install the required packages:</h4>
+    <ol>
+      <li>!pip install selenium</li>
+      <li>!pip install webdriver_manager</li>
+      <li>!python -m pip install "pymongo[srv]"</li>
+    </ol>
   </li>
   <li>
     Set up your MongoDB connection string in the script.
